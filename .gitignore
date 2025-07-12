@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+logs
+*.log
+
+# Logs
+*.log
+logs/
+debug.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Editor folders and files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS
+Thumbs.db
+ehthumbs.db
+
+# Test output
+coverage/
+jest/
+
+# Optional: Linux/Mac swap or temp files
+*.swp
+*.swo
+*.tmp
+
+# Optional: Windows
+*.exe
+*.dll
+*.obj
+
+
+Backend/data
